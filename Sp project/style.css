@@ -1,0 +1,143 @@
+body {
+    overflow-x: hidden; /* Prevents horizontal scrolling */
+  }
+ 
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1030;
+  }
+    
+.food-item img {
+    width: 150px; /* Adjust width to your preference */
+    height: 150px; /* Adjust height to your preference */
+    border-radius: 50%;
+    object-fit: cover; /* Makes the image scale properly inside the circle */
+}
+.food-item {
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* about page  */
+    .about-text {
+        font-size: 1.1rem;
+        line-height: 1.6;
+    }
+    .contact-number {
+        font-size: 1.5rem;
+        color: #f39c12;
+        font-weight: bold;
+    }
+    .operating-hours {
+        font-weight: bold;
+    }
+    .about-title {
+        color: #e74c3c;
+        font-family: 'Great Vibes';
+        font-weight: bold;
+        font-size: 50px;
+        margin-top: 20px;
+    }
+    /* homepage image and text adjustment */
+#main_img {
+    display: block;
+    margin: 0;
+    width: 100%; 
+    height: auto;/* Full viewport width */
+    
+}
+.position-relative {
+    position: relative;
+}
+
+/* Overlay text style */
+.text-overlay, .text-overlay2 {
+    position: absolute;
+    left: 52%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%;
+}
+
+.text-overlay {
+    top: 37%;
+    font-size: 5vw; /* Responsive font size */
+    font-weight: bold;
+    font-family: 'Great Vibes';
+}
+
+.text-overlay2 {
+    top: 49%;
+    font-size: 2.5vw; /* Responsive font size */
+    font-style: oblique;
+
+}
+
+/* Media queries to adjust text size on smaller screens */
+@media (max-width: 768px) {
+    .text-overlay {
+        font-size: 7vw;
+    }
+
+    .text-overlay2 {
+        font-size: 4vw;
+    }
+}
+
+@media (max-width: 576px) {
+    .text-overlay {
+        font-size: 4vw;
+        top: 40%;
+    }
+
+    .text-overlay2 {
+        font-size: 2.6vw;
+    }
+}
+/* form and bg edit section */
+    .background-image {
+        background-image: url(Screenshots/bgf.jpeg); /* Replace with your image URL */
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        position: relative;
+    }
+    .reservation-form {
+        background: rgba(255, 255, 255, 0.9); /* Add transparency to the form background */
+        padding: 30px;
+        border-radius: 15px;
+        max-width: 500px;
+    }
+    .centered-form {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .btn-custom {
+        background-color: #f1c40f;
+        border-color: #f1c40f;
+    }
+/* customer card layout */
+    .round-img {
+        width: 150px; /* Adjust the size as needed */
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+  
+    .card {
+        background-color: #fff; /* White background for the card */
+        border-radius: 15px;
+    }
+  
+    .card-body {
+        padding: 20px;
+        margin-top: 50px;
+    }
+    .card-text{
+        text-align: center;
+        justify-items: center;
+        font-style: italic;
+    }

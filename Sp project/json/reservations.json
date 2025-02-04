@@ -1,0 +1,36 @@
+{
+  "reservations": [
+    {
+      "id": "625a",
+      "Name": "ram",
+      "EmailID": "ram@gmail.com",
+      "Contact": "0123456789",
+      "Date": "2024-12-25",
+      "PersonCount": "2"
+    },
+    {
+      "id": "6ccc",
+      "Name": "sarika",
+      "EmailID": "sarika123@gmail.com",
+      "Contact": "1234567890",
+      "Date": "2024-12-25",
+      "PersonCount": "1"
+    },
+    {
+      "id": "86b0",
+      "Name": "sarika",
+      "EmailID": "sarika123@gmail.com",
+      "Contact": "0123456789",
+      "Date": "2024-12-26",
+      "PersonCount": "2"
+    },
+    {
+      "id": "7020",
+      "Name": "ram",
+      "EmailID": "ram@gmail.com",
+      "Contact": "0123456789",
+      "Date": "2024-12-25",
+      "PersonCount": "2"
+    }
+  ]
+}

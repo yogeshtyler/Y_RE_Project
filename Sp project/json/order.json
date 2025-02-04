@@ -1,0 +1,179 @@
+{
+  "order": [
+    {
+      "id": "9b68",
+      "customerDetails": {
+        "name": "ram",
+        "email": "sarika123@gmail.com",
+        "contactNumber": "0123456789",
+        "orderDate": "2024-12-25",
+        "address": "no 2 ram street tn"
+      },
+      "items": [
+        {
+          "itemName": "Fresh Veggi Special Pizza",
+          "category": "Main Course",
+          "price": 450,
+          "quantity": 5,
+          "subtotal": "2250.00"
+        }
+      ],
+      "totalAmount": "2250.00"
+    },
+    {
+      "id": "4a5d",
+      "customerDetails": {
+        "name": "",
+        "email": "",
+        "contactNumber": "01234567891",
+        "orderDate": "2024-10-25",
+        "address": "no 2 ram street tn"
+      },
+      "items": [
+        {
+          "itemName": "Garlic Bread Mozzarella",
+          "category": "Starters",
+          "price": 200,
+          "quantity": 1,
+          "subtotal": "200.00"
+        }
+      ],
+      "totalAmount": "200.00"
+    },
+    {
+      "id": "01e2",
+      "customerDetails": {
+        "name": "",
+        "email": "",
+        "contactNumber": "",
+        "orderDate": "",
+        "address": ""
+      },
+      "items": [
+        {
+          "itemName": "Chocolate Cheesecake",
+          "category": "Desserts",
+          "price": 125,
+          "quantity": 1,
+          "subtotal": "125.00"
+        }
+      ],
+      "totalAmount": "125.00"
+    },
+    {
+      "id": "8afc",
+      "customerDetails": {
+        "orderId": "101",
+        "name": "sarika",
+        "email": "sarika123@gmail.com",
+        "contactNumber": "0123456789",
+        "orderDate": "2024-10-25",
+        "address": "no 2 ram street tn"
+      },
+      "items": [
+        {
+          "itemName": "Oreo Monster Shake",
+          "category": "Beverages",
+          "price": 280,
+          "quantity": 1,
+          "subtotal": "280.00"
+        }
+      ],
+      "totalAmount": "280.00"
+    },
+    {
+      "id": "d332044",
+      "customerDetails": {
+        "name": "sarika",
+        "email": "sarika123@gmail.com",
+        "contactNumber": "0123456789",
+        "orderDate": "2024-12-25",
+        "address": "no 2 ram street tn"
+      },
+      "items": [
+        {
+          "itemName": "Pomodoro Pesto Pizza By the Slice",
+          "category": "Main Course",
+          "price": 800,
+          "quantity": 4,
+          "subtotal": "3200.00"
+        }
+      ],
+      "totalAmount": "3200.00"
+    },
+    {
+      "id": "d616148",
+      "customerDetails": {
+        "name": "sarika",
+        "email": "sarika123@gmail.com",
+        "contactNumber": "0123456789",
+        "orderDate": "2024-12-25",
+        "address": "no 2 ram street tn"
+      },
+      "items": [
+        {
+          "itemName": "Classic Mojito",
+          "category": "Beverages",
+          "price": 250,
+          "quantity": 15,
+          "subtotal": "3750.00"
+        },
+        {
+          "itemName": "Mexican Delight Pizza",
+          "category": "Main Course",
+          "price": 320,
+          "quantity": 16,
+          "subtotal": "5120.00"
+        }
+      ],
+      "totalAmount": "8870.00"
+    },
+    {
+      "id": "d475836",
+      "customerDetails": {
+        "name": "ram",
+        "email": "ram@gmail.com",
+        "contactNumber": "0123456789",
+        "orderDate": "2024-12-25",
+        "address": "no 2 ram street tn"
+      },
+      "items": [
+        {
+          "itemName": "Cheese Burst Pizza",
+          "category": "Main Course",
+          "price": 700,
+          "quantity": 3,
+          "subtotal": "2100.00"
+        },
+        {
+          "itemName": "Chocolate Cheesecake",
+          "category": "Desserts",
+          "price": 125,
+          "quantity": 1,
+          "subtotal": "125.00"
+        }
+      ],
+      "totalAmount": "2225.00"
+    },
+    {
+      "id": "d314659",
+      "customerDetails": {
+        "name": "ram",
+        "email": "ram@gmail.com",
+        "contactNumber": "0123456789",
+        "orderDate": "2024-12-26",
+        "address": "no 2 ram street tn"
+      },
+      "items": [
+        {
+          "itemName": "Chocolate Cheesecake",
+          "category": "Desserts",
+          "price": 125,
+          "quantity": 1,
+          "subtotal": "125.00"
+        }
+      ],
+      "totalAmount": "125.00"
+    }
+  ]
+}
